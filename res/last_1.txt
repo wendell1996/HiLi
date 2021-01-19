@@ -1,0 +1,4 @@
+validation:
+mrr 0.260033 recall 0.422133
+test:
+mrr 0.271958 recall 0.436196
